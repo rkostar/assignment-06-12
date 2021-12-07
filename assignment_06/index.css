@@ -1,0 +1,24 @@
+body{
+    background-color: #9FAD97;
+}
+#to_be_center{
+    text-align: center;
+}
+#to_be_right{
+    text-align: right;
+}
+#green{
+    color: green;
+}
+small{
+    color:white;
+    font-family: arial;
+}
+#dog{
+    display: block;
+    margin: auto;
+}
+#butt{
+    display: block;
+    margin: auto;
+}
